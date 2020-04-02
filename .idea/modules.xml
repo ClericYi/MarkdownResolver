@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MarkdownResolver.iml" filepath="$PROJECT_DIR$/MarkdownResolver.iml" group="MarkdownResolver" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="MarkdownResolver/app" />
+      <module fileurl="file://$PROJECT_DIR$/resolver/resolver.iml" filepath="$PROJECT_DIR$/resolver/resolver.iml" group="MarkdownResolver/resolver" />
+    </modules>
+  </component>
+</project>
